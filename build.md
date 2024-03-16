@@ -6,6 +6,6 @@ YouTube: 19.09.38
 
 Changelog:  
 CLI: inotia00/revanced-cli-4.4.1-all.jar  
-Integrations: YT-Advanced/revanced-integrations-0.146.5.apk  
-Patches: YT-Advanced/revanced-patches-2.220.9.jar  
-[Changelog](https://github.com/YT-Advanced/ReX-patches/releases/tag/v2.220.9)  
+Integrations: anddea/revanced-integrations-0.147.3.apk  
+Patches: anddea/revanced-patches-2.221.0.3.jar  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v2.221.0.3)  
