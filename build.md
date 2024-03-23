@@ -1,5 +1,8 @@
-YouTubeBeta: 19.11.38  
+YouTube: 19.11.38  
+Music: 6.44.52  
+YouTubeBeta: 19.11.39  
 - To use YouTube and YouTube Music without root, install either [Vanced Extended MicroG](https://github.com/inotia00/VancedMicroG/releases) or [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG/releases).  
+- To detach YouTube and YouTube Music from Play Store, use the [zygisk-detach](https://github.com/j-hc/zygisk-detach) module.  
 
 Changelog:  
 CLI: j-hc/revanced-cli-4.5.0-all.jar  
