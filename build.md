@@ -1,4 +1,4 @@
-YouTubeBeta: 19.12.36  
+YouTubeBeta: 19.11.43  
 - To use YouTube without root, install [MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases/latest).  
 
 Changelog:  
